@@ -84,7 +84,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
     </td>
        <td width="25%" align="center">
         <span>React</span><br><br><br>
-        <img height="64px" src="https://reactjs.org/logo-og.png">
+        <img height="64px" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png">
     </td>
     </tr>
   </tbody>
