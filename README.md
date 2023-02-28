@@ -85,7 +85,7 @@ https://cdn.svgporn.com/logos/c-plusplus.svg
     </td>
        <td width="25%" align="center">
           <span><b>React</b></span><br><br><br>
-        <img height="64px" src="https://pbs.twimg.com/card_img/1627174072370057221/o0zerJXi?format=png&name=medium">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
     </td>
      <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
