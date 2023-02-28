@@ -53,9 +53,14 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
  -->
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
+https://cdn.svgporn.com/logos/c-plusplus.svg
 <table>
   <tbody>
     <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>C++</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+      </td>
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
