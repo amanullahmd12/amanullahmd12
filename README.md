@@ -81,6 +81,11 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
         <span>Figma</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/color/344/figma--v1.png">
     </td>
+    </td>
+       <td width="25%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://reactjs.org/logo-og.png">
+    </td>
     </tr>
   </tbody>
 </table>
