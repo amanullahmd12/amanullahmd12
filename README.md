@@ -1,4 +1,4 @@
-<b> Hi there, <i>I'm Ananya Vishnoi</i></b> 👋
+<b> Hi there, <i>I'm Md Amanullah</i></b> 👋
 
 <img align="right" src="./gif.gif" length=250px width=250px>
 
@@ -16,17 +16,16 @@
 - 🔭 I’m currently working as a Software Developer.
 - 🌱 I’m currently learning AR.
 - 💬 Ask me about anything.
-- 📫 How to reach me: ananyavishnoi26@gmail.com
+- 📫 How to reach me: amanullah.md.2016852@gmail.com
 - 😄 Pronouns: She/Her
 -----
 
 #### A little more about me
 ```javascript
-const ananya = {
-  pronouns: "She" | "Her",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "augmented reality", 
-  "designing", "python"],
+const Amanullah = {
+  pronouns: "He" | "Him",
+  code: ["C++", "Java", "HTML", "CSS","Javascript"],
+  askMeAbout: ["web dev",],
 }
 ```
 
