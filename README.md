@@ -73,10 +73,6 @@ https://cdn.svgporn.com/logos/c-plusplus.svg
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
     </tr>
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
@@ -91,6 +87,10 @@ https://cdn.svgporn.com/logos/c-plusplus.svg
           <span><b>React</b></span><br><br><br>
         <img height="64px" src="https://pbs.twimg.com/card_img/1627174072370057221/o0zerJXi?format=png&name=medium">
     </td>
+     <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
     </tr>
   </tbody>
 </table>
