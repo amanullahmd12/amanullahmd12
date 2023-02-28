@@ -83,7 +83,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
     </td>
     </td>
        <td width="25%" align="center">
-  <span><h2>React</h2></span><br><br><br>
+          <span>React</span><br><br><br>
         <img height="64px" src="https://pbs.twimg.com/card_img/1627174072370057221/o0zerJXi?format=png&name=medium">
     </td>
     </tr>
