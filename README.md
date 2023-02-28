@@ -14,7 +14,7 @@
  -->
 
 - 🔭 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning AR.
+- 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything.
 - 📫 How to reach me: amanullah.md.2016852@gmail.com
 - 😄 Pronouns: He/Him
