@@ -53,7 +53,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
  -->
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-https://cdn.svgporn.com/logos/c-plusplus.svg
 <table>
   <tbody>
     <tr valign="top">
