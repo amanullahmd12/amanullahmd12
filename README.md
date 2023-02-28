@@ -19,7 +19,7 @@
 - 📫 How to reach me: amanullah.md.2016852@gmail.com
 - 😄 Pronouns: He/Him
 -----
-
+<!-- 
 #### A little more about me
 ```javascript
 const Amanullah = {
@@ -28,7 +28,7 @@ const Amanullah = {
   askMeAbout: ["web dev",],
 }
 ```
-
+ -->
 
 <!-- ## <b>Profile</b>
 
