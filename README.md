@@ -1,4 +1,8 @@
-
+<!-- Add your profile GIF description here -->
+<!-- You can use this format for your GIF: ![Profile GIF](url-to-your-gif) -->
+<!-- Example: ![Profile GIF](https://example.com/your-gif.gif) -->
+<!-- Or you can use the gif you provided earlier: -->
+![Profile GIF](./gif.gif)
 
 # Hi there, I'm Md Amanullah! 👋
 
@@ -60,6 +64,23 @@ I am a Full Stack Developer with a passion for creating and delivering innovativ
       <td width="25%" align="center">
         <b>JavaScript</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <b>Bootstrap</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+      <td width="25%" align="center">
+        <b>Python</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <b>Figma</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+      </td>
+      <td width="25%" align="center">
+        <!-- You can add more technologies here if needed -->
       </td>
     </tr>
   </tbody>
