@@ -1,4 +1,4 @@
-(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazljYzYyYW5nMWxkdGtreDZuamo0dG42NTI1M2V3bW01YnBrMnR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif)
+![Profile GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazljYzYyYW5nMWxkdGtreDZuamo0dG42NTI1M2V3bW01YnBrMnR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif)
 
 # Hi there, I'm Md Amanullah! 👋
 
