@@ -1,103 +1,75 @@
-<b> Hi there, <i>I'm Md Amanullah</i></b> 👋
-
-<img align="right" src="./gif.gif" length=250px width=250px>
-
-<br>
-<i>I am pursuing <b>B.Tech in Computer Science (2020-24)</b> from <b>Graphic Era Deemed University.</i></b>
-<br>
-<br>
 
 
-<!-- <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+UI+/UX+Designer!;I'm+an+Augmented+Reality+Developer!;I'm+a+Django+Developer!" /></a>
-</p>
- -->
+# Hi there, I'm Md Amanullah! 👋
 
-- 🔭 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning Flutter.
-- 💬 Ask me about anything.
-- 📫 How to reach me: amanullah.md.2016852@gmail.com
-- 😄 Pronouns: He/Him
------
-<!-- 
-#### A little more about me
-```javascript
-const Amanullah = {
-  pronouns: "He" | "Him",
-  code: ["C++", "Java", "HTML", "CSS","Javascript"],
-  askMeAbout: ["web dev",],
-}
-```
- -->
-Connect with me :
+I am a Full Stack Developer with a passion for creating and delivering innovative web applications. I enjoy working with various technologies to build scalable and user-friendly solutions. Here are some of the technologies I'm proficient in:
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/md-amanullah-6ba173219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanullah" height="20" width="30" /></a>
-<a href="https://www.hackerrank.com/amanullah_md_201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanullah" height="20" width="30" /></a>
-<a href="https://leetcode.com/amanullahmd12/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=512" alt="amanullah" height="20" width="30" /></a>
-</p>
-
-
-
-
-
-<!-- ## <b>Profile</b>
-
-Property                 | Data  
--------------------------|------
-Language            |  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-Language-blue) ![Python Badge](https://img.shields.io/badge/Python-Language-yellow) ![Java Badge](https://img.shields.io/badge/Java-Language-blue)
-IDE        |  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio-Code-blue)
-Domain Knowledge         | ![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) 
-Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-AnanyaVishnoi-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AnanyaVishnoi3/) [![Gmail Badge](https://img.shields.io/badge/-AnanyaVishnoi-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:ananyavishnoi26@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-AnanyaVishnoi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-vishnoi/)
- -->
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## Technologies and Skills
 
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><b>C++</b></span><br><br><br>
+        <b>C++</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <b>Java</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <b>Flask</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+      </td>
+      <td width="25%" align="center">
+        <b>React</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <b>Git</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <b>GitHub</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <b>Next.js</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+      </td>
+      <td width="25%" align="center">
+        <b>Tailwind CSS</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <b>Sass</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+      <td width="25%" align="center">
+        <b>HTML</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <b>CSS</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <b>JavaScript</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-       <td width="25%" align="center">
-        <span><b>Figma</b></span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/344/figma--v1.png">
-    </td>
-    </td>
-       <td width="25%" align="center">
-          <span><b>React</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-    </td>
-     <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
   </tbody>
 </table>
 
+## Reach Me
 
+- LinkedIn: [Md Amanullah](https://www.linkedin.com/in/md-amanullah-6ba173219/)
+- HackerRank: [Amanullah](https://www.hackerrank.com/amanullah_md_201)
+- LeetCode: [amanullahmd12](https://leetcode.com/amanullahmd12/)
+- Email: amanullah.md.2016852@gmail.com
 
-
-
-
-
-
+Let's collaborate and build amazing projects together! Happy coding! 🚀
