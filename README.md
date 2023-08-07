@@ -80,11 +80,23 @@ I am a Full Stack Developer with a passion for creating and delivering innovativ
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
       </td>
       <td width="25%" align="center">
-        <!-- You can add more technologies here if needed -->
+        <b>MySQL</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
     </tr>
   </tbody>
 </table>
+
+
+
+## Projects
+
+- [CrackCam](https://github.com/amanullahmd12/CrackCam): A deep-learning-based web application for detecting surface cracks in images.
+- [SummarizeTube](https://github.com/amanullahmd12/SummarizeTube): A web application to summarize long YouTube videos using YouTube's transcript feature and translate the summarized text into multiple languages.
+- [OrthoMate](https://github.com/amanullahmd12/OrthoMate): A deep-learning-based web application for knee osteoarthritis detection and severity prediction using machine learning.
+- [EnrollEase](https://github.com/amanullahmd12/EnrollEase): A desktop application Course Registration System developed with Java, JavaFX, Swing, and MySQL.
+- [Rhythmix - RhythmoBot](https://github.com/amanullahmd12/Rhythmix---RhythmoBot): A music recommendation system with a bot using NLP capabilities.
+
 
 ## Reach Me
 
@@ -94,3 +106,5 @@ I am a Full Stack Developer with a passion for creating and delivering innovativ
 - Email: amanullah.md.2016852@gmail.com
 
 Let's collaborate and build amazing projects together! Happy coding! 🚀
+
+
