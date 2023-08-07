@@ -1,8 +1,4 @@
-<!-- Add your profile GIF description here -->
-<!-- You can use this format for your GIF: ![Profile GIF](url-to-your-gif) -->
-<!-- Example: ![Profile GIF](https://example.com/your-gif.gif) -->
-<!-- Or you can use the gif you provided earlier: -->
-![Profile GIF](./gif.gif)
+(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazljYzYyYW5nMWxkdGtreDZuamo0dG42NTI1M2V3bW01YnBrMnR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif)
 
 # Hi there, I'm Md Amanullah! 👋
 
