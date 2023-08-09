@@ -84,7 +84,6 @@ I am a Full Stack Developer with a passion for creating and delivering innovativ
 </table>
 
 
-
 ## Projects
 
 - [CrackCam](https://github.com/amanullahmd12/CrackCam): A deep-learning-based web application for detecting surface cracks in images.
@@ -92,14 +91,16 @@ I am a Full Stack Developer with a passion for creating and delivering innovativ
 - [OrthoMate](https://github.com/amanullahmd12/OrthoMate): A deep-learning-based web application for knee osteoarthritis detection and severity prediction using machine learning.
 - [EnrollEase](https://github.com/amanullahmd12/EnrollEase): A desktop application Course Registration System developed with Java, JavaFX, Swing, and MySQL.
 - [Rhythmix - RhythmoBot](https://github.com/amanullahmd12/Rhythmix---RhythmoBot): A music recommendation system with a bot using NLP capabilities.
-
+- [TEDx Graphic Era University Women](https://tedxgraphicerauniversitywomen.com): Website for TEDx event at Graphic Era Deemed University.
 
 ## Reach Me
 
-- LinkedIn: [Md Amanullah](https://www.linkedin.com/in/md-amanullah-6ba173219/)
-- HackerRank: [Amanullah](https://www.hackerrank.com/amanullah_md_201)
-- LeetCode: [amanullahmd12](https://leetcode.com/amanullahmd12/)
-- Email: amanullah.md.2016852@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-amanullah-6ba173219/" target="blank"><img src="https://cdn.svgporn.com/logos/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
+  <a href="https://www.hackerrank.com/amanullah_md_201" target="blank"><img src="https://cdn.svgporn.com/logos/hackerrank.svg" alt="HackerRank" height="20" width="20" /></a>
+  <a href="https://leetcode.com/amanullahmd12/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png" alt="LeetCode" height="20" width="20" /></a>
+  <a href="mailto:amanullah.md.2016852@gmail.com"><img src="https://cdn.svgporn.com/logos/email-icon.svg" alt="Email" height="20" width="20" /></a>
+</p>
 
 Let's collaborate and build amazing projects together! Happy coding! 🚀
 
