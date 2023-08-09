@@ -85,13 +85,15 @@ I am a Full Stack Developer with a passion for creating and delivering innovativ
 
 
 ## Projects
-
+- [TEDx Graphic Era University Women](https://tedxgraphicerauniversitywomen.com): Website for TEDx event at Graphic Era Deemed University.
+- [SummaGPT](https://summagpt.netlify.app): A web application that uses GPT-3.5 to generate concise summaries of text input.
+- [Rhythmix - RhythmoBot](https://github.com/amanullahmd12/Rhythmix---RhythmoBot): A music recommendation system with a bot using NLP capabilities.
+- [OrthoMate](https://github.com/amanullahmd12/OrthoMate): A deep-learning-based web application for knee osteoarthritis detection and severity prediction using machine learning.
 - [CrackCam](https://github.com/amanullahmd12/CrackCam): A deep-learning-based web application for detecting surface cracks in images.
 - [SummarizeTube](https://github.com/amanullahmd12/SummarizeTube): A web application to summarize long YouTube videos using YouTube's transcript feature and translate the summarized text into multiple languages.
-- [OrthoMate](https://github.com/amanullahmd12/OrthoMate): A deep-learning-based web application for knee osteoarthritis detection and severity prediction using machine learning.
 - [EnrollEase](https://github.com/amanullahmd12/EnrollEase): A desktop application Course Registration System developed with Java, JavaFX, Swing, and MySQL.
-- [Rhythmix - RhythmoBot](https://github.com/amanullahmd12/Rhythmix---RhythmoBot): A music recommendation system with a bot using NLP capabilities.
-- [TEDx Graphic Era University Women](https://tedxgraphicerauniversitywomen.com): Website for TEDx event at Graphic Era Deemed University.
+
+
 
 ## Reach Me
 
