@@ -81,12 +81,6 @@ I am a Full Stack Developer with a passion for creating and delivering innovativ
       </td>
       
     </tr>
-    <tr>
-    <td width="25%" align="center">
-        <b>MongoBD</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-      </td>
-    </tr>
   </tbody>
 </table>
 
