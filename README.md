@@ -85,7 +85,7 @@ I am a Full Stack Developer with a passion for creating and delivering innovativ
 
 ## Projects
 - [ISWAB23](https://iswab23.in): Website for International Workshop on Smart Agricultural and Biomedical Sciences event at Graphic Era Deemed University.
-- [TEDx Graphic Era University Women](https://tedxgraphicerauniversitywomen.com): Website for TEDx event at Graphic Era Deemed University.
+- [TEDx Graphic Era University Women](https://tedxgraphicerauniversitywomen.in): Website for TEDx event at Graphic Era Deemed University.
 - [SummaGPT](https://summagpt.netlify.app): A web application that uses GPT-3.5 to generate concise summaries of text input.
 - [Rhythmix - RhythmoBot](https://github.com/amanullahmd12/Rhythmix---RhythmoBot): A music recommendation system with a bot using NLP capabilities.
 - [OrthoMate](https://github.com/amanullahmd12/OrthoMate): A deep-learning-based web application for knee osteoarthritis detection and severity prediction using machine learning.
